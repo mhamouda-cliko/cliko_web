@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907121313533",
+    "project_id": "cliko-web",
+    "storage_bucket": "cliko-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907121313533:android:75740849d6fce4453f6094",
+        "android_client_info": {
+          "package_name": "com.example.cliko_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907121313533-0kae32fnlid8u0e2dto275iut5iojm27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp27hBB1XgRa9yvH-OB3tqWLukIyscSrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907121313533-0kae32fnlid8u0e2dto275iut5iojm27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

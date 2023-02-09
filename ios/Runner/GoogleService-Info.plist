@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>907121313533-tn7m3jekbcmglengb93ghgnqkd3eonhs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.907121313533-tn7m3jekbcmglengb93ghgnqkd3eonhs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAT7yejlP1BZa16u6KtLzZzZ5VWUokXflo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>907121313533</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.clikoWeb</string>
+	<key>PROJECT_ID</key>
+	<string>cliko-web</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cliko-web.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:907121313533:ios:4cbf4f62b786615e3f6094</string>
+</dict>
+</plist>
